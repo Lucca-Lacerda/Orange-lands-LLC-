@@ -1,0 +1,1 @@
+Substitua o conteúdo em assets/cropped/ do seu repositório.
